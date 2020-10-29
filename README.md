@@ -1,2 +1,3 @@
-# dept-contest-history
-Records the history of BJU's programming contest participation
+# README
+
+This repository records the history of BJU's programming contest participation.
