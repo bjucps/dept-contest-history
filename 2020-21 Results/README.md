@@ -8,3 +8,7 @@ Our intercollegiate programming teams competed in 5 contests during the 2020-21 
 * _NADC: North America Division Championship_ | https://nadc21.kattis.com/standings?filter=3556
     * South Division | Team 16th out of 43, School rank 13th (Top 8 advanced)
     * Overall North America | Team 58th out of 168, School rank 43rd (Top 30 advanced)
+* _NAC/NAPC: North America Programming Camp and Championship_ 
+    * We were invited to participate in the programing camp and subsequently the NAC
+    * NAC Rank | Team 45th out of 48 | https://nac21.kattis.com/standings
+    * NSA ICPC Challenge 2021 | Team 9th | Top score was not a team | https://nsachallenge21.kattis.com/standings
